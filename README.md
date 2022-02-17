@@ -4,10 +4,12 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-Time series forecasting - XXX
-Time series classification - XXX
-NLP - XXX
-Graph - XXX
+| Project topic | Repository |
+| ------------- | ---------- |
+| Time series forecasting | XXX |
+| Time series classification | XXX |
+| NLP | XXX |
+| Graph | XXX |
 
 <!---
 mnoor-ds/mnoor-ds is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
